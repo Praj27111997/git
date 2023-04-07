@@ -1,0 +1,21 @@
+def add(a, b):
+    #a=int(input("enter no :"))
+    #b=int(input("enter no :"))
+    c=a+b
+    return
+    print("hello")
+
+
+c=print(add(3,5))
+Tableau 
+
+steps to download 
+1. click on the below URL
+URL : https://drive.google.com/drive/u/0/folders/1MCD4yU1B66X4Tklks4dR9GNpmHCeEDfq
+
+2.Download all the files 
+3.double click on setup(1) and click on next next and once it is installed then
+  Click Exit when activation pops up.
+4. navigate to below path 
+	C:\Program Files\Tableau\Tableau 2019.3\bin
+5.Copy tabuii.dll file and paste and replace existing file in the above path
